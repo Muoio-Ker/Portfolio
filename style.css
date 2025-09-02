@@ -102,6 +102,10 @@ body {
   gap: 30px;
 }
 
+.main__content .text {
+  margin-bottom: 38px;
+}
+
 .main__info {
   display: flex;
   flex-direction: column;
@@ -301,6 +305,10 @@ body {
 
   .text {
     margin-bottom: 17px;
+  }
+
+  .main__content .text {
+    margin-bottom: 27px;
   }
 
   .posts__cards {
